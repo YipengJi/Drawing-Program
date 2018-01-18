@@ -22,7 +22,7 @@ import java.awt.Dimension;
 import java.awt.event.*;
 import java.awt.BorderLayout;
 
-public class Drawing {
+public class DrawingProgram {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("Drawing Program");
